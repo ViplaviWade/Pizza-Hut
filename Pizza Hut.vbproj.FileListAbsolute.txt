@@ -1,0 +1,11 @@
+E:\Boht Hard\Pizza Hut\Pizza Hut\obj\Debug\ResolveAssemblyReference.cache
+E:\Boht Hard\Pizza Hut\Pizza Hut\obj\Debug\PizzaHut.frmLogin.resources
+E:\Boht Hard\Pizza Hut\Pizza Hut\obj\Debug\PizzaHut.Resources.resources
+E:\Boht Hard\Pizza Hut\Pizza Hut\obj\Debug\Pizza Hut.vbproj.GenerateResource.Cache
+E:\Boht Hard\Pizza Hut\Pizza Hut\bin\Debug\Pizza Hut.exe
+E:\Boht Hard\Pizza Hut\Pizza Hut\bin\Debug\Pizza Hut.pdb
+E:\Boht Hard\Pizza Hut\Pizza Hut\bin\Debug\Pizza Hut.xml
+E:\Boht Hard\Pizza Hut\Pizza Hut\obj\Debug\Pizza Hut.exe
+E:\Boht Hard\Pizza Hut\Pizza Hut\obj\Debug\Pizza Hut.xml
+E:\Boht Hard\Pizza Hut\Pizza Hut\obj\Debug\Pizza Hut.pdb
+E:\Boht Hard\Pizza Hut\Pizza Hut\obj\Debug\PizzaHut.frmImage.resources
